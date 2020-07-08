@@ -545,7 +545,7 @@ http://www.templatemo.com/tm-509-hydro
   .exp-right {
     height: 200px;
     border-radius: 3px;
-    padding-top: 20px;
+    padding-top: 15px;
     text-align: center;
   }
   
@@ -555,6 +555,12 @@ http://www.templatemo.com/tm-509-hydro
 
   .exp-left {
     padding: 0 15px 0 15px;
+  }
+
+  .exp-left span {
+    font-size: 16px;
+    font-weight: bold;
+    color: #505050;
   }
 
   .media.blog-thumb .media-left {
@@ -923,6 +929,10 @@ http://www.templatemo.com/tm-509-hydro
     color: #ffffff;
     width: 100%;
     margin-bottom: 20px;
+  }
+
+  .btn-my:hover {
+    border-color: #ffffff;
   }
 
 
