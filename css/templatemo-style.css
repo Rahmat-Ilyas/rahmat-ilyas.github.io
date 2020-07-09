@@ -17,7 +17,7 @@ http://www.templatemo.com/tm-509-hydro
        PRE LOADER              
   -----------------------------------------*/
 
- /* .preloader {
+  .preloader {
     position: fixed;
     top: 0;
     left: 0;
@@ -59,7 +59,7 @@ http://www.templatemo.com/tm-509-hydro
 
   @keyframes spinner {
     to {transform: rotate(360deg);}
-  } */
+  }
 
   /*---------------------------------------
      TYPOGRAPHY              
@@ -316,7 +316,7 @@ http://www.templatemo.com/tm-509-hydro
   -----------------------------------------*/
 
   #home {
-    background: url('../images/home-bg.jpg') no-repeat center center;
+    background: url('rahmat-ilyas.github.io/images/home-bg.jpg') no-repeat center center;
     background-size: cover;
     vertical-align: middle;
     display: -webkit-box;
@@ -497,7 +497,7 @@ http://www.templatemo.com/tm-509-hydro
   }
 
   #blog-header {
-    background: url('../images/blog-header-bg.jpg') no-repeat center center;
+    background: url('rahmat-ilyas.github.io/images/blog-header-bg.jpg') no-repeat center center;
     background-size: cover;
     display: -webkit-box;
     display: -webkit-flex;
