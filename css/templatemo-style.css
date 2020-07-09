@@ -153,7 +153,7 @@ http://www.templatemo.com/tm-509-hydro
        PRE LOADER              
   -----------------------------------------*/
 
-  .preloader {
+  /*.preloader {
     position: fixed;
     top: 0;
     left: 0;
@@ -195,7 +195,7 @@ http://www.templatemo.com/tm-509-hydro
 
   @keyframes spinner {
     to {transform: rotate(360deg);}
-  }
+  } */
 
 
   /*---------------------------------------
